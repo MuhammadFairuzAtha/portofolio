@@ -1,0 +1,26 @@
+      *{
+        max-height: 100%;
+        max-width: 100%;
+        font-family: "Poppins", serif;
+      }
+      .biru-navy{
+        color: #27548A;
+      }
+      .bg-birunavy{
+        background-color: #27548A;
+      }
+      .emas{
+        color: #DDA853;
+      }
+      .bg-emas{
+        background-color: #DDA853;
+      }
+      .oldgreen{
+        color: #183B4E;
+      }
+      .bg-oldgreen{
+        background-color: #183B4E;
+      }
+body{
+  scroll-behavior: smooth;
+}
