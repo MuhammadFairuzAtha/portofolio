@@ -8,7 +8,7 @@ const textData = [
   { text: "Datang", delay: 400 },
   { text: "Ketika lagi", delay: 700 },
   { text: "Butuh saja", delay: 1000 },
-  { text: "Coba kalau lagi susah", delay: 2000 },
+  { text: "Coba kalau lagi susah", delay: 3000 },
   { text: "Mereka semua menghilang", delay: 2500 },
   { text: "Tanteeeee", delay: 6500 },
 ];

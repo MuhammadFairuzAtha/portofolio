@@ -24,3 +24,19 @@
 body{
   scroll-behavior: smooth;
 }
+@media (max-width: 768px) {
+  body{
+    font-size: 14px;
+  }
+  #skill{
+    font-size: 20px;
+    max-width: fit-content;
+  }
+  .skill{
+    width: 20em;
+    
+  }
+  img{
+    width: 100%;
+  }
+}
